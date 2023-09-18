@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Я Золто");
+int x = 10;
+int y = 20;
+Console.WriteLine(x - y);
