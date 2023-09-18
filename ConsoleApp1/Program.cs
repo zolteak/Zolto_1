@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, world!");
+Random rnd = new Random();
+
+int x = rnd.Next(-100000,100000);
+
+Console.WriteLine(x);
